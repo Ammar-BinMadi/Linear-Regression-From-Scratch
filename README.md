@@ -10,7 +10,7 @@ In this repository you can find linear regression written in numpy from scratch,
 ## Getting Started   
 
 To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com)
-The main file is The main file is [LinearRegression.ipynb](LinearRegression.ipynb) 
+The main file is [LinearRegression.ipynb](LinearRegression.ipynb) 
 
 ### Prerequisites
 ```
